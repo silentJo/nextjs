@@ -9,7 +9,7 @@ export default function LoginPage() {
               Snappies
             </div>
           </div>
-          <LoginForm />
+
         </div>
       </main>
   );
